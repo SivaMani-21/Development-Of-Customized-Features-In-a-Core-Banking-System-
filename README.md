@@ -10,6 +10,8 @@ development cycles. This internship is enriching my understanding of enterprise 
 reinforcing best practices in software development, and sharpening my analytical and collaboration 
 skills. It offers a practical learning environment where I interact with real-world banking systems and 
 contribute meaningfully to complex, enterprise-level fintech projects.
+
+
 Throughout the internship, I have been involved in various stages of the software development 
 lifecycle, including requirement analysis, design, coding, deployment, and collaboration with crossfunctional teams. I have worked on customizing and enhancing core modules within the CBS to meet 
 specific client requirements, involving extensive use of PL/SQL procedures, triggers, and performance 
